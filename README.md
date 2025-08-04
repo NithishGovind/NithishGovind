@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nithishgovind00@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/nithish-govind-52b914244/overlay/1753871799665/single-media-viewer/?profileId=ACoAADyl2vMBVg-UK89v8D4OF6dDCCwc9Rc_Me0](https://www.linkedin.com/in/nithish-govind-52b914244/overlay/1753871799665/single-media-viewer/?profileId=ACoAADyl2vMBVg-UK89v8D4OF6dDCCwc9Rc_Me0)
+- 📄 Know about my experiences [RESUME](https://www.linkedin.com/in/nithish-govind-52b914244/overlay/1753871799665/single-media-viewer/?profileId=ACoAADyl2vMBVg-UK89v8D4OF6dDCCwc9Rc_Me0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
