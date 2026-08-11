@@ -1,5 +1,5 @@
 #  About Me:
- I’m currently working on vision-based systems for robotic perception and autonomous decision-making<br><br> I’m also learning AWS DeepRacer, Google Cloud Platform, and DevOps tools for scalable AI-driven applications and cloud-based robotics.<br><br> I’m looking for help with exploring mathematical modelling and control systems in autonomous robots.<br><br> Ask me about robotics, computer vision, AI integration, embedded systems, cloud deployment, and real-time control systems<br><br> How to reach me nithishgovind00@gmail.com<br><br> Know about my experiences [Portfolio](https://nithishgovind.github.io/portfolio/)
+ Cooking up Industrial Automation, Robotics<br><br><br> Ask me about robotics, computer vision, AI integration, embedded systems, cloud deployment, and real-time control systems<br><br> How to reach me nithishgovind00@gmail.com<br><br> Know about my experiences [Portfolio](https://nithishgovind.github.io/portfolio/)
 
 
 # 💻 Tech Stack:
